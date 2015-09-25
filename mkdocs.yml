@@ -1,0 +1,17 @@
+site_name: Pointslocal Admin Documentation
+
+pages:
+- Home: index.md
+- API:
+  - Events:
+    - Events: api_events_events.md
+    - Venues: api_events_venues.md
+    - Categories: api_events_categories.md
+    - Tags: api_events_tags.md
+  - Sports:
+    - Games: api_stats_games.md
+    - Players: api_stats_players.md
+    - Schools: api_stats_schools.md
+    - Teams: api_stats_teams.md
+    - Sports: api_stats_sports.md
+    - Standings: api_stats_standings.md
